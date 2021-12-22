@@ -25,8 +25,9 @@ author: Anh Tuan Nguyen
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://now37.github.io'
-baseurl: '/site'
+#url: 'https://now37.github.io'
+#baseurl: '/site'
+url: 'https://anh.wacko.company'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
